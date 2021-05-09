@@ -51,7 +51,7 @@
 		"js-yaml": "^3.14.0",
 		"keycode": "^2.2.0",
 		"localforage": "^1.7.2",
-		"lodash": "^4.17.11",
+		"lodash": "^4.17.21",
 		"mongodb": "^3.5.8",
 		"mongoose": "^5.9.17",
 		"nipplejs": "^0.8.5",
